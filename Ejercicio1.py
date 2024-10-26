@@ -1,3 +1,4 @@
+#Ejercicio1 de grados celsius
 #Ingreso de datos
 temperatura = float(input("Ingrese la temperatura en grados Celsius: "))
 
