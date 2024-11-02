@@ -36,7 +36,8 @@ for i in range(num):
  if(promedio > max):
   max = promedio
   nombre = ListaNombre[i]
-
+  
+ #Estudiantes que sacaron 7 o mas
  if(promedio >= 7):
   ListaNombre7.append(ListaNombre[i])
   cont = cont + 1
